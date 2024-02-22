@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/fujulia">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fujulia&show_icons=true&theme=prussian" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fujulia&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/fujulia">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujulia&layout=donut&theme=cobalt"/>
